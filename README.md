@@ -16,7 +16,7 @@
 - There are 2 main coding parts in this demo:
 
 | Cleaning code | Vsualization code | 
-| -------- | -------- | -------- |
+| -------- | -------- | 
 
 #### [2.1.1 Cleaning code](/lH2ryznwTJa4oKA092dkkA)
 
