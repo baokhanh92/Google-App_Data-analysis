@@ -57,7 +57,7 @@ data['Size'] = data['Size'].apply(lambda x: x.replace(',', '') if ',' in str(x) 
 
 ## [3. Conclusion ](/-iz_-FrPQ3SPbl7WJxdocg)
 
-- **Data is surely a powerfull tool for us to learn insights.** But data alone may not be enough, in this demo version, I pointed out that add a little power of Python code, we can make easier to make the right decisions.
+- **Data is surely a powerfull tool for us to learn insights.** But data alone may not be enough, in this demo version, I pointed out that add a little power of Python code, our decision making process will be much more easier and effective.
 
 - **Hope you enjoy the code**
 
