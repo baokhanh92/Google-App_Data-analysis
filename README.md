@@ -3,6 +3,7 @@
 ## [ 1. OVERVIEW ](/9lRMLcbMR--joBvR84z5KA)
 
 [ **- About the data**: ](/9lRMLcbMR--joBvR84z5KA) Nowadays we get a large amount of data in various format from csv to img. However as a human, we can effectily read and make decision with these data showed as bar, graph. This is a short version of how I cleaning up the data and visualize them to get usefull insights.
+
 [ **- What you can expect in this github**: ](/9lRMLcbMR--joBvR84z5KA) 
 1. The code of cleaning up the data
 2. Sample of how to visualize data 
